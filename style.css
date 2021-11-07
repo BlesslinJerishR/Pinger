@@ -54,3 +54,10 @@ li {
 .btn-info {
     margin-left: 1rem;
 }
+
+@media (max-width:480px) {
+    #jock {
+        position: relative;
+        left: 50px !important;
+    }
+}
